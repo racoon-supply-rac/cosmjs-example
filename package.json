@@ -1,0 +1,12 @@
+{
+  "name": "queries-juno",
+  "version": "1.0.0",
+  "description": "queries-juno",
+  "main": "index.js",
+  "author": "rs",
+  "license": "ISC",
+  "dependencies": {
+    "@cosmjs/cosmwasm-stargate": "^0.28.0",
+    "@cosmjs/stargate": "^0.28.0"
+  }
+}
